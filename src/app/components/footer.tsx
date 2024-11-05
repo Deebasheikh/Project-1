@@ -11,7 +11,7 @@ export default function Footer() {
                     </Link>
                 </li>
                 <li>
-                    <Link href="https://instagram.com/CrossStitch.com" className="hover:underline">
+                    <Link href="https://instagram.com" className="hover:underline">
                         Instagram
                     </Link>
                 </li>
