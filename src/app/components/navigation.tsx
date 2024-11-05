@@ -49,9 +49,8 @@ const linkStyle = {
 };
 
 // Additional hover effect (can add to CSS instead if preferred)
-const linkHoverStyle = {
-    ...linkStyle,
-    backgroundColor: '#555', // Darker shade on hover
-};
+// const linkHoverStyle = {
+    // ...linkStyle,
+    // backgroundColor: '#555', // Darker shade on hover
+// };
 
-// Assign hover effects in CSS or using inline events
